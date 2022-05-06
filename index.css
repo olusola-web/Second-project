@@ -60,7 +60,7 @@ button{
         justify-content: center;
     }
     main{
-        flex-direction: row;
+        flex-direction: column;
     }
 }
 
